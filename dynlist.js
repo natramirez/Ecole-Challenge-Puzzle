@@ -2,7 +2,7 @@
 // Author: Natalia Ramirez
 // 
 // Description: Creates a dynamic list object along with its associated HTML elements 
-// and functions. Requires dynlist.hmtl, dynlist.css and dynlist.php files.
+// and functions. Requires dynlist.html, dynlist.css and dynlist.php files.
 // 
 // Future potential improvements: Add "delete dynList" functionality. Tailor "Submit messages"
 // to server handling and responses.
